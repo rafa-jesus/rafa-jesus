@@ -1,7 +1,7 @@
 ## Olá! Seja bem vindo ao meu perfil do GitHub!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa-jesus&hide=stars,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark&&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=dark&&langs_count=3&layout=compact)
 
 <div>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
