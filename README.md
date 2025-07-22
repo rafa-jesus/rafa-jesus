@@ -18,7 +18,7 @@ Tenho 21 anos e uma paixão por computadores desde sempre. Acredito que a tecnol
 ---
 
 ## 📊 Atividade no Github
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa-jesus&hide=stars,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![rafa-jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa-jesus&hide=stars,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-jesus&hide_progress=false&theme=dark&layout=compact)
 
 ---
